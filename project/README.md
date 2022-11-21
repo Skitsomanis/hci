@@ -5,7 +5,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) |https://github.com/courses-ionio/help/discussions/1520 | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |https://github.com/courses-ionio/help/discussions/1315 | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | https://github.com/courses-ionio/help/discussions/1523| |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 | https://github.com/courses-ionio/help/discussions/1725 |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
